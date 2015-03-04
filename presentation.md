@@ -1,7 +1,7 @@
 title: Fuzzy Match 'All The Things'
 author:
   name: Ylan Segal
-  twitter/github: @ylansegal
+  twitter: ylansegal
   url: http://ylan.segal-family.com
   email: ylan@segal-family.com
 controls: false
