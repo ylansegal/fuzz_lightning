@@ -7,7 +7,7 @@ author:
 controls: false
 --
 
-# Fuzzy Match 'All The Things'
+# Fuzzy Match 'All-The-Things'
 
 ## SDRuby - March, 2014
 
